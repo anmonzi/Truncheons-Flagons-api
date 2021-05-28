@@ -1,0 +1,298 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Windhelm",
+      "dateCreated": "04/23/2021"
+    },
+    {
+      "id": 2,
+      "name": "Riften",
+      "dateCreated": "03/12/2021"
+    },
+    {
+      "id": 3,
+      "name": "Helgen",
+      "dateCreated": "01/05/2021"
+    },
+    {
+      "dateCreated": "5/13/2021, 2:08:08 PM",
+      "name": "The Lotus Eaters",
+      "id": 4,
+      "playerCount": 0
+    },
+    {
+      "dateCreated": "5/13/2021, 3:05:20 PM",
+      "name": "The Argonauts",
+      "id": 5,
+      "playerCount": 0
+    },
+    {
+      "dateCreated": "5/13/2021, 3:22:33 PM",
+      "name": "Unicorns of Love and Hope",
+      "id": 6,
+      "playerCount": 0
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "firstName": "Milo",
+      "lastName": "French",
+      "country": "Algeria",
+      "teamId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Fletcher",
+      "lastName": "Carr",
+      "country": "Austria",
+      "teamId": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Brooke",
+      "lastName": "Mooney",
+      "country": "Denmark",
+      "teamId": 1
+    },
+    {
+      "id": 4,
+      "firstName": "Cedric",
+      "lastName": "Graham",
+      "country": "Sweden",
+      "teamId": 1
+    },
+    {
+      "id": 5,
+      "firstName": "Griffin",
+      "lastName": "Cash",
+      "country": "Norway",
+      "teamId": 3
+    },
+    {
+      "id": 6,
+      "firstName": "Nathan",
+      "lastName": "Graham",
+      "country": "New Zealand",
+      "teamId": 2
+    },
+    {
+      "id": 7,
+      "firstName": "Bill",
+      "lastName": "Vance",
+      "country": "Russia",
+      "teamId": 3
+    },
+    {
+      "id": 8,
+      "firstName": "Neil",
+      "lastName": "Diamond",
+      "country": "Russia",
+      "teamId": 2
+    },
+    {
+      "id": 9,
+      "firstName": "Ellen",
+      "lastName": "Hardy",
+      "country": "Spain",
+      "teamId": 3
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Lambrow",
+      "country": "United States",
+      "teamId": 4,
+      "id": 10
+    },
+    {
+      "firstName": "Noah",
+      "lastName": "Husain",
+      "country": "USA",
+      "teamId": 6,
+      "id": 11
+    }
+  ],
+  "scores": [
+    {
+      "id": 1,
+      "teamId": 1,
+      "score": 2,
+      "timestamp": 1614659931693
+    },
+    {
+      "id": 2,
+      "teamId": 2,
+      "score": 1,
+      "timestamp": 1614659931693
+    },
+    {
+      "id": 3,
+      "teamId": 3,
+      "score": 1,
+      "timestamp": 1614659931693
+    },
+    {
+      "id": 4,
+      "teamId": 1,
+      "score": 0,
+      "timestamp": 1620238696239
+    },
+    {
+      "teamId": 1,
+      "score": 3,
+      "timestamp": 1620923227294,
+      "id": 5
+    },
+    {
+      "teamId": 2,
+      "score": 3,
+      "timestamp": 1620923227307,
+      "id": 6
+    },
+    {
+      "teamId": 3,
+      "score": 3,
+      "timestamp": 1620923227319,
+      "id": 7
+    },
+    {
+      "teamId": 1,
+      "score": 3,
+      "timestamp": 1620923289294,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "teamId": 3,
+      "score": 1,
+      "timestamp": 1620238792447
+    },
+    {
+      "teamId": 1,
+      "score": 6,
+      "timestamp": 1620929654874,
+      "id": 10
+    },
+    {
+      "teamId": 2,
+      "score": 3,
+      "timestamp": 1620929654892,
+      "id": 11
+    },
+    {
+      "teamId": 3,
+      "score": 3,
+      "timestamp": 1620929654898,
+      "id": 12
+    },
+    {
+      "teamId": 1,
+      "score": 4,
+      "timestamp": 1620931706437,
+      "id": 13
+    },
+    {
+      "teamId": 2,
+      "score": 3,
+      "timestamp": 1620931706758,
+      "id": 14
+    },
+    {
+      "teamId": 3,
+      "score": 3,
+      "timestamp": 1620931706766,
+      "id": 15
+    },
+    {
+      "id": 16,
+      "teamId": 4,
+      "score": 0,
+      "timestamp": 1620932888777
+    },
+    {
+      "teamId": 1,
+      "score": 3,
+      "timestamp": 1620932916812,
+      "id": 17
+    },
+    {
+      "teamId": 4,
+      "score": 4,
+      "timestamp": 1620932916820,
+      "id": 18
+    },
+    {
+      "teamId": 2,
+      "score": 0,
+      "timestamp": 1620932916827,
+      "id": 19
+    },
+    {
+      "id": 20,
+      "teamId": 5,
+      "score": 0,
+      "timestamp": 1620936320752
+    },
+    {
+      "id": 21,
+      "teamId": 6,
+      "score": 0,
+      "timestamp": 1620937353952
+    },
+    {
+      "teamId": 1,
+      "score": 4,
+      "timestamp": 1620952962436,
+      "id": 22
+    },
+    {
+      "teamId": 2,
+      "score": 3,
+      "timestamp": 1620952962478,
+      "id": 23
+    },
+    {
+      "teamId": 3,
+      "score": 3,
+      "timestamp": 1620952962488,
+      "id": 24
+    },
+    {
+      "teamId": 1,
+      "score": 3,
+      "timestamp": 1620953303983,
+      "id": 25
+    },
+    {
+      "teamId": 2,
+      "score": 3,
+      "timestamp": 1620953303998,
+      "id": 26
+    },
+    {
+      "teamId": 3,
+      "score": 3,
+      "timestamp": 1620953304007,
+      "id": 27
+    },
+    {
+      "teamId": 1,
+      "score": 80,
+      "timestamp": 1621023933131,
+      "id": 28
+    },
+    {
+      "teamId": 3,
+      "score": 35,
+      "timestamp": 1621023933167,
+      "id": 29
+    },
+    {
+      "teamId": 2,
+      "score": 24,
+      "timestamp": 1621023933282,
+      "id": 30
+    }
+  ]
+}
