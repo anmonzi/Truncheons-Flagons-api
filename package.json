@@ -1,5 +1,5 @@
 {
-    "name": "Truncheons-Flagons-api",
+    "name": "truncheons-flagons-api",
     "version": "1.0.0",
     "description": "Simple json-server database to deploy to the cloud",
     "main": "server.js",
